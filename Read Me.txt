@@ -1,0 +1,10 @@
+1. The pipeline script is in project 10.ipynb
+make sure that psycopg2 library is installed
+
+2. The data that was exported from the pipeline and was used for the dashboard 
+is in trending_by_time.csv
+
+3. The link for the dashboard is:
+https://public.tableau.com/profile/doron.k6027#!/vizhome/Project10_16065910831320/Dashboard1
+
+4. The presentation file is named Project10.pdf
